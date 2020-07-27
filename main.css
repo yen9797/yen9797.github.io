@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+.carousel-inner img{
+	width:100%;
+}
+.carousel-caption{
+	top:10%;
+}
+.form-inline{
+	margin-left:25%
+}
+.container{
+	margin-bottom:200px;
+}
